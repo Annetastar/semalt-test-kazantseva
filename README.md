@@ -1,4 +1,5 @@
 # semalt-test-kazantseva
+DEMO LINK https://annetastar.github.io/semalt-test-kazantseva/index.html
 
 ## Project setup
 ```
